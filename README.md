@@ -13,7 +13,7 @@ Other project is probably better than this.
 ![Network Request](https://images2.imgbox.com/49/d4/NdQCWm0y_o.png)
 
 ### um... what
-yea im too lazy to explain it so figure it yourself
+The [wiki](https://github.com/badasintended/slotlink/wiki) might help.
 
 ### really? this is your attutude? im not gonna use this mod then
 ### attitude*
